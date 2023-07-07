@@ -21,4 +21,4 @@ and if the user answers correctly, their points increase by 1. If they answer in
 1. Clone the repository:
 
    ```bash
-   git clone [repository URL]
+   git clone [https://github.com/vijaybrat/Maths-Game]
