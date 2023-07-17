@@ -16,6 +16,9 @@ and if the user answers correctly, their points increase by 1. If they answer in
 - CSS
 - JavaScript
 
+# Live
+https://eloquent-froyo-27e1a2.netlify.app/
+
 ## Installation
 
 1. Clone the repository:
